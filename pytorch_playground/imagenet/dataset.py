@@ -1,4 +1,4 @@
-from utee import misc
+from ..utee import misc
 import os
 import os.path
 import numpy as np

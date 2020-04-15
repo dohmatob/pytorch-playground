@@ -1,7 +1,7 @@
 import math
 import torch
 import torch.nn as nn
-from utee import misc
+from ..utee import misc
 from collections import OrderedDict
 
 

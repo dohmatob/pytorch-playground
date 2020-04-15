@@ -1,6 +1,6 @@
 import torch.nn as nn
 import math
-from utee import misc
+from ..utee import misc
 from collections import OrderedDict
 
 __all__ = ['ResNet', 'resnet18', 'resnet34', 'resnet50', 'resnet101',

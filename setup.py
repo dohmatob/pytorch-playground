@@ -4,7 +4,7 @@ with open("requirements.txt") as requirements_file:
     REQUIREMENTS = requirements_file.readlines()
 
 setup(
-    name="pytorch-playground",
+    name="pytorch_playground",
     version="1.0.0",
     author='Aaron Chen',
     author_email='aaron.xichen@gmail.com',
